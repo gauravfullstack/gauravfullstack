@@ -31,26 +31,17 @@
 
 I'm a **Software Engineer with 4+ years of experience** designing and shipping scalable web & mobile applications across **OTA, E-Commerce, and CRM** domains. I specialize in **high-performance frontend architecture**, clean API integration, and building products that hold up under real-world scale and traffic.
 
-```json
-{
-  "name": "Gaurav Tiwari",
-  "role": "Software Engineer",
-  "experience": "4+ years",
-  "stack": ["React", "Next.js", "React Native", "Node.js", "TypeScript"],
-  "currentlyAt": "Praxis Services Pvt Ltd",
-  "domains": ["OTA", "E-Commerce", "CRM"],
-  "impact": { "apiLoadReduced": "25%", "loadTimeImproved": "30%" },
-  "status": "Open to opportunities"
-}
 ```
-
-<div align="center">
-
-| 🕒 4+ Years | 🚀 4 Apps Shipped | 📱 2 Live on Play Store | 🎓 MCA 2024–26 |
-|:---:|:---:|:---:|:---:|
-| Professional Experience | Production Applications | Google Play Published | Amity University |
-
-</div>
+const gaurav = {
+    role: "Software Engineer",
+    experience: "4+ years",
+    focus: ["React", "Next.js", "TypeScript", "React Native", "Node.js"],
+    currentlyBuilding: "OneFineRate — OTA Hotel Booking Platform",
+    impact: { apiLoadReduced: "25%", loadTimeImproved: "30%" },
+    education: "MCA @ Amity University, Noida (2024–2026)",
+    location: "Gurugram, India 🇮🇳"
+};
+```
 
 - 🔭 Currently leading **frontend development** at **Praxis Services** on **OneFineRate**, an OTA hotel-booking platform
 - 🏗️ Previously built **Orami**, a full-featured e-commerce app with Stripe payments & real-time order tracking
@@ -98,10 +89,6 @@ I'm a **Software Engineer with 4+ years of experience** designing and shipping s
 **Cloud & DevOps**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=aws,githubactions,git,postman" />
-<br/><br/>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 </td>
 <td valign="top" width="50%">
@@ -113,47 +100,6 @@ I'm a **Software Engineer with 4+ years of experience** designing and shipping s
 </td>
 </tr>
 </table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=2&width=100%" />
-
-## 💼 Experience
-
-### 🏨 Software Engineer — **Praxis Services Pvt Ltd**
-<sub>📍 Sector-48, Gurugram &nbsp;·&nbsp; 🗓️ March 2025 — Present</sub>
-<br/>**→ Project: OneFineRate — OTA Hotel Booking Platform (incl. PWA)**
-
-- Led development of a scalable OTA platform delivering high-speed hotel search, real-time availability, and end-to-end booking flows with secure payment handling
-- Designed a reusable component architecture and caching strategy, cutting **API load by ~25%** and improving **page load time by ~30%**
-- Optimized data-fetching with React Query, improving perceived performance and reducing redundant network calls
-- Partnered closely with backend, QA and design to keep the platform scalable, responsive and production-grade
-
-`React.js` `Next.js` `Redux Toolkit` `React Query` `PWAs` `AWS S3/CloudFront`
-
-<br/>
-
-### 🛒 Software Engineer — **Peregrine IT LLP**
-<sub>📍 Sector-63, Noida &nbsp;·&nbsp; 🗓️ April 2023 — March 2025</sub>
-<br/>**→ Project: Orami — E-Commerce Application**
-
-- Built a full-featured e-commerce platform with secure auth, optimized product listings, and a smooth multi-step checkout flow
-- Integrated **Stripe** for payments and **Twilio + FCM** for real-time order alerts (placed → shipped → delivered)
-- Used SSR and API caching to improve page load time and SEO on high-traffic product pages
-
-`Next.js` `Node.js` `Redux` `JWT` `Stripe` `Twilio` `Firebase`
-
-<br/>
-
-### 📱 Teacher-Parent Ecosystem — **Amity University** <sub>(Sprinklr-funded)</sub>
-<sub>🎓 University Project &nbsp;·&nbsp; Published on the Play Store</sub>
-
-- Built and shipped a production-ready Android app enabling teachers to manage classes and streamline communication with parents and students
-- Integrated **Twilio** for SMS alerts, **SendGrid** for email, and **Firebase Cloud Messaging** for real-time push notifications
-- Designed offline-first UI with local caching and live sync for a smooth experience on low connectivity
-- Collaborated on a Sprinklr-funded initiative adopted by teachers for daily class updates and student engagement
-
-`React Native` `Node.js` `AWS` `Twilio` `SendGrid` `FCM`
 
 <br/>
 
@@ -212,21 +158,20 @@ A published utility package used by other developers in their own React/Node pro
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=2&width=100%" />
 
-## 🎓 Education
+## 💼 Experience Timeline
 
 <table width="100%">
 <tr>
-<td width="75%">
-
-**Master of Computer Applications (MCA)**
-<br/>Amity University, Noida
-
-</td>
-<td width="25%" align="right">
-
-`2024 — 2026`
-
-</td>
+<th>Period</th><th>Role</th><th>Company</th><th>Project</th>
+</tr>
+<tr>
+<td>2025 — Present</td><td>Software Engineer</td><td><b>Praxis Services</b></td><td>OneFineRate (OTA Platform)</td>
+</tr>
+<tr>
+<td>2023 — 2025</td><td>Software Engineer</td><td><b>Peregrine IT LLP</b></td><td>Orami (E-Commerce)</td>
+</tr>
+<tr>
+<td>University</td><td>React Native Developer</td><td><b>Amity University</b></td><td>Teacher-Parent App (Sprinklr-funded)</td>
 </tr>
 </table>
 
@@ -240,7 +185,7 @@ A published utility package used by other developers in their own React/Node pro
 
 | 📱 Play Store | 📦 npm Package | 💻 Open Source |
 |:---:|:---:|:---:|
-| Released a production-grade Android app | Published a package used by other developers | Active contributor on GitHub |
+| Published a production-grade Android app | Published a package used by other developers | Active contributor on GitHub |
 | [View app →](https://play.google.com/store/apps/details?id=com.teacherappnewerversion2) | [View package →](https://www.npmjs.com/package/habited-web-components) | [View repos →](https://github.com/daiict218/edupath-backend) |
 
 </div>
