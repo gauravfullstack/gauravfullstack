@@ -205,8 +205,6 @@ A published utility package used by other developers in their own React/Node pro
 
 </div>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=2&width=100%" />
 
 <div align="center">
