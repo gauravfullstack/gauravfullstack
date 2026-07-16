@@ -209,10 +209,7 @@ A published utility package used by other developers in their own React/Node pro
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=2&width=100%" />
 
-## 📫 Let's Connect
-
 <div align="center">
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6366F1&height=150&section=footer" width="100%"/>
 
