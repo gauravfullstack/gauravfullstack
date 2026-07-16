@@ -212,14 +212,6 @@ A published utility package used by other developers in their own React/Node pro
 ## 📫 Let's Connect
 
 <div align="center">
-
-I'm actively exploring new opportunities where I can own frontend architecture and ship products at scale.
-Open to relocation · Open to remote · Usually reply within a day 🙌
-
-<a href="mailto:gauravtiwari29500@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/ergauravtiwari"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="tel:+919896148837"><img src="https://img.shields.io/badge/%2B91%2098961%2048837-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6366F1&height=150&section=footer" width="100%"/>
