@@ -198,10 +198,10 @@ A published utility package used by other developers in their own React/Node pro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gauravfullstack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=gauravfullstack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravfullstack&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravfullstack&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravfullstack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="50%" />
 
 </div>
 
