@@ -2,8 +2,9 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=230&section=header&text=Gaurav%20Tiwari&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Engineer%20·%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
 
-  <!-- Core Links -->
   <br/>
+
+  <!-- Core Links -->
   <a href="https://linkedin.com/in/ergauravtiwari">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -31,7 +32,7 @@
 <div align="center">
   <a href="https://github.com/gauravfullstack">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Senior-Track+Frontend+Engineer;Building+Fast%2C+Reliable+Web+%26+Mobile+Products;React+%2B+Next.js+%2B+TypeScript+Specialist;OTA+%7C+E-Commerce+%7C+CRM+Platforms;Turning+Complex+UIs+Into+Clean+Developer+Experiences"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Frontend+Engineer+on+the+Senior+Track;Building+Fast%2C+Reliable+Web+%26+Mobile+Products;React+%2B+Next.js+%2B+TypeScript+Specialist;OTA+%7C+E-Commerce+%7C+CRM+Platforms;Turning+Complex+UIs+Into+Clean+Developer+Experiences"
     />
   </a>
 </div>
@@ -40,7 +41,7 @@
 
 ## 👨‍💻 Profile Snapshot
 
-I’m a **Software Engineer (4+ years)** focused on production-grade frontend systems, real-world performance and clean integration with complex APIs across **OTA, E‑Commerce and CRM** platforms.
+I’m a **Software Engineer (4+ years)** focused on production-grade frontend systems, performance, and clean API integrations across **OTA, E‑Commerce and CRM** platforms.
 
 ```ts
 const gaurav: EngineerProfile = {
@@ -62,8 +63,7 @@ const gaurav: EngineerProfile = {
 - Previously built **Orami**, a full-stack e‑commerce product with **Stripe** payments and real-time order alerts.
 - Shipped a **Play Store–published** React Native app for a **Sprinklr-funded** teacher–parent ecosystem.
 - Published an **npm package** used in other React/Node codebases and actively maintain open-source projects.
-- Currently pursuing **MCA** at Amity University, with a focus on scalable web apps and system design.
-- I enjoy performance-tuning, caching strategies and building maintainable component systems — even when nobody asked.
+- Pursuing **MCA** at Amity University, with focus on scalable web apps and system design.
 
 ---
 
@@ -85,8 +85,8 @@ const gaurav: EngineerProfile = {
 
       <br/><br/>
 
-      - High-performance SPA/SSR apps with **Next.js**.
-      - Scalable state management using Redux Toolkit + React Query.
+      - High-performance SPA/SSR apps with **Next.js**.  
+      - Scalable state management using Redux Toolkit + React Query.  
       - Accessibility-conscious and mobile-first UI engineering.
 
     </td>
@@ -105,9 +105,9 @@ const gaurav: EngineerProfile = {
 
       <br/><br/>
 
-      - Node.js + Express APIs for product and booking workflows.
-      - Payments, notifications and real-time updates (Stripe, Twilio, FCM).
-      - Auth flows using OAuth 2.0 and JWT-based session handling.
+      - Node.js + Express APIs for product and booking workflows.  
+      - Payments, notifications and real-time updates (Stripe, Twilio, FCM).  
+      - Auth flows using OAuth 2.0 and JWT-based sessions.
 
     </td>
   </tr>
@@ -121,8 +121,8 @@ const gaurav: EngineerProfile = {
 
       <br/><br/>
 
-      - AWS-powered deployments for Next.js/Node.js services.
-      - GitHub Actions CI/CD pipelines for web and mobile apps.
+      - AWS-powered deployments for Next.js/Node.js services.  
+      - GitHub Actions CI/CD pipelines for web and mobile apps.  
       - API design, documentation and integration with Postman.
 
     </td>
@@ -134,8 +134,8 @@ const gaurav: EngineerProfile = {
 
       <br/><br/>
 
-      - Component-level tests using Jest + React Testing Library.
-      - Design collaboration via Figma and Jira.
+      - Component-level tests using Jest + React Testing Library.  
+      - Design collaboration via Figma and Jira.  
       - Developer experience focused on clean, readable code.
 
     </td>
@@ -144,70 +144,72 @@ const gaurav: EngineerProfile = {
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
 
-      <h3>🏨 <a href="https://onefinerate.com">OneFineRate</a></h3>
-      <strong>OTA Hotel Booking Platform · PWA</strong>
+      ### 🏨 <a href="https://onefinerate.com">OneFineRate</a>  
+      **OTA Hotel Booking Platform · PWA**
 
-      <br/><br/>
+      Real-time availability, high-speed search and secure end-to-end booking.  
+      Custom caching and request deduplication reduced API load by ~25% and improved load time by ~30%.
 
-      Real-time availability, high-speed search and secure end-to-end booking for hotels and users at scale.<br/>
-      Implemented a custom caching strategy and request deduplication that reduced API load by **≈25%** and improved page load time by **≈30%**.
+      <br/>
 
-      <br/><br/>
-
-      <code>Next.js</code> <code>Redux Toolkit</code> <code>React Query</code> <code>AWS</code>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 
     </td>
     <td width="50%" valign="top">
 
-      <h3>🛒 Orami</h3>
-      <strong>E-Commerce Application</strong>
+      ### 🛒 Orami  
+      **E‑Commerce Application**
 
-      <br/><br/>
+      Full-featured storefront with secure checkout, Stripe payments and real-time order alerts via Twilio & FCM.  
+      SSR-driven for speed, SEO and predictable cart/checkout flows.
 
-      Full-featured storefront with secure checkout, **Stripe** payments and real-time order alerts via Twilio + FCM.<br/>
-      Server-side rendering for performance and SEO, with robust cart, order management and notification flows.
+      <br/>
 
-      <br/><br/>
-
-      <code>Next.js</code> <code>Node.js</code> <code>Stripe</code> <code>Twilio</code>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+      <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
 
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
 
-      <h3>📱 <a href="https://play.google.com/store/apps/details?id=com.teacherappnewerversion2">Teacher-Parent Ecosystem</a></h3>
-      <strong>React Native · Live on Play Store</strong>
+      ### 📱 <a href="https://play.google.com/store/apps/details?id=com.teacherappnewerversion2">Teacher‑Parent Ecosystem</a>  
+      **React Native · Live on Play Store**
 
-      <br/><br/>
+      Offline-first mobile app enabling teachers to manage classes and reach parents instantly.  
+      Built as part of a Sprinklr‑funded initiative at Amity University.
 
-      Offline-first mobile app helping teachers manage classes and connect with parents instantly.<br/>
-      Built as part of a **Sprinklr-funded** initiative at Amity University.
+      <br/>
 
-      <br/><br/>
-
-      <code>React Native</code> <code>Firebase</code> <code>Twilio</code> <code>SendGrid</code>
+      <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+      <img src="https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=sendgrid&logoColor=white" />
 
     </td>
     <td width="50%" valign="top">
 
-      <h3>📦 <a href="https://www.npmjs.com/package/habited-web-components">habited-web-components</a></h3>
-      <strong>Open-Source npm Package</strong>
+      ### 📦 <a href="https://www.npmjs.com/package/habited-web-components">habited‑web‑components</a>  
+      **Open‑Source npm Package**
 
-      <br/><br/>
+      A published utility package used by other developers in their React/Node projects.
 
-      A published utility package used by other developers in React/Node projects for reusable web components and utilities.
+      <br/>
 
-      <br/><br/>
-
-      <code>TypeScript</code> <code>Node.js</code> <code>npm</code>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 
     </td>
   </tr>
@@ -234,13 +236,13 @@ const gaurav: EngineerProfile = {
     <td>2023 — 2025</td>
     <td>Software Engineer</td>
     <td><strong>Peregrine IT LLP</strong></td>
-    <td>Orami (E-Commerce)</td>
+    <td>Orami (E‑Commerce)</td>
   </tr>
   <tr>
     <td>University</td>
     <td>React Native Developer</td>
     <td><strong>Amity University</strong></td>
-    <td>Teacher–Parent App (Sprinklr-funded)</td>
+    <td>Teacher–Parent App (Sprinklr‑funded)</td>
   </tr>
 </table>
 
@@ -285,8 +287,8 @@ const gaurav: EngineerProfile = {
 
 ## 🤝 Let’s Connect
 
-- Based in **Gurugram / Noida, India**.
-- Open to roles focused on **frontend architecture**, **React/Next.js** and **high-performance user interfaces**.
+- Based in **Gurugram / Noida, India**.  
+- Open to roles focused on **frontend architecture**, **React/Next.js** and **high-performance user interfaces**.  
 - Reach out via [LinkedIn](https://linkedin.com/in/ergauravtiwari) or email at **gauravtiwari29500@gmail.com**.
 
 <div align="center">
