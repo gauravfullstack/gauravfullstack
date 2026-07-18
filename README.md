@@ -115,10 +115,7 @@ Teacher-Parent Ecosystem Mobile App — *Published on the Play Store*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ergauravtiwari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ergauravtiwari&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergauravtiwari&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -129,8 +126,6 @@ Teacher-Parent Ecosystem Mobile App — *Published on the Play Store*
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-> ⚠️ *Note: The GitHub stats, streak, and snake widgets above are third-party GitHub Action integrations — they'll activate automatically once this README is on a repo named exactly like your GitHub username (`ergauravtiwari/ergauravtiwari`), with the snake action workflow enabled in the repo settings.*
 
 ---
 
