@@ -21,9 +21,6 @@ focus: Performance Optimisation • Frontend Architecture • High-Impact Digita
 domains: [OTA, E-Commerce, CRM]
 fun_fact: I turn slow apps fast and messy code clean ⚡
 ```
-
-<img src="https://readme-typing-svg.demolab.com/?lines=📍+Amity+University,+Gurugram;📧+gauravtiwari29500%40gmail.com;📱+%2B91+9896148837&font=Fira+Code&center=true&width=600&height=30&color=39D353&vCenter=true&size=16"/>
-
 ---
 
 ### 🛠️ Tech Arsenal
